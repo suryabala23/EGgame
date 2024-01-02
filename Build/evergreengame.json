@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "evergreengame.data.unityweb",
+"asmCodeUrl": "evergreengame.asm.code.unityweb",
+"asmMemoryUrl": "evergreengame.asm.memory.unityweb",
+"asmFrameworkUrl": "evergreengame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
